@@ -1,2 +1,2 @@
 # crm
-simple crm
+simple crm by laravel
